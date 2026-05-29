@@ -1,3 +1,5 @@
+
+po stažení filmin.zip a extrahování:
 v příkazové řádce:
 cd (adresář obsahující složku s projektem)\filmin2026-main\filmin
 mvnw.cmd spring-boot:run
